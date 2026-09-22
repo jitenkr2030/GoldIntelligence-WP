@@ -1,9 +1,9 @@
 === Gold Intelligence ===
-Contributors: jitenderkumar
-Tags: gold price, gold calculator, jewellery, gold rate, precious metals, gold valuation
+Contributors: jitenderkr
+Tags: gold price, gold calculator, jewellery, gold rate, precious metals
 Requires at least: 6.0
 Requires PHP: 7.4
-Tested up to: 6.9
+Tested up to: 7.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -127,13 +127,6 @@ Gold Intelligence API
     | Provider API
     v
 Metals Data Provider
-
-== Requirements ==
-
-* WordPress 6.0 or later
-* PHP 7.4 or later
-* Gold Intelligence API
-* Valid Gold Intelligence API key
 
 == Privacy ==
 
